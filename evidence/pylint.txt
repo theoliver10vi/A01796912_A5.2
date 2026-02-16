@@ -1,0 +1,11 @@
+************* Module computeSales
+computeSales.py:39:0: C0115: Missing class docstring (missing-class-docstring)
+computeSales.py:60:0: C0116: Missing function or method docstring (missing-function-docstring)
+computeSales.py:181:8: E1102: f'{sale_id} | {sale_date} | {producto} | {cantidad} | ' is not callable (not-callable)
+computeSales.py:190:0: R0914: Too many local variables (21/15) (too-many-locals)
+computeSales.py:287:12: R1731: Consider using 'max_num = max(max_num, num)' instead of unnecessary if block (consider-using-max-builtin)
+computeSales.py:300:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 9.51/10 (previous run: 9.90/10, -0.39)
+
