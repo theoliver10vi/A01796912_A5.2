@@ -1,0 +1,62 @@
+Compute Sales - Results
+
+Detalle de ventas (se omiten registros inválidos, pero se reportan):
+
+SALE_ID | SALE_Date | Product | Quantity | Unit Price | Line Total
+------------------------------------------------------------------------
+1 | 01/12/23 | Rustic breakfast | 1 | 21.32 | 21.32
+1 | 01/12/23 | Sandwich with salad | 2 | 22.48 | 44.96
+1 | 01/12/23 | Raw legums | 1 | 17.11 | 17.11
+2 | 01/12/23 | Fresh stawberry | 1 | 28.59 | 28.59
+2 | 01/12/23 | Pears juice | 2 | 19.49 | 38.98
+3 | 01/12/23 | Green smoothie | 3 | 17.68 | 53.04
+3 | 01/12/23 | Cuban sandwiche | 2 | 18.50 | 37.00
+3 | 01/12/23 | Hazelnut in black ceramic bowl | 2 | 27.35 | 54.70
+4 | 01/12/23 | Tomatoes | 1 | 26.03 | 26.03
+4 | 01/12/23 | Plums | 1 | 19.18 | 19.18
+4 | 01/12/23 | Fresh blueberries | 2 | 21.01 | 42.02
+5 | 01/12/23 | Green smoothie | 2 | 17.68 | 35.36
+5 | 01/12/23 | Corn | 3 | 13.55 | 40.65
+5 | 01/12/23 | French fries | 1 | 18.32 | 18.32
+6 | 01/12/23 | Ground beef meat burger | 1 | 11.73 | 11.73
+6 | 01/12/23 | Hazelnut in black ceramic bowl | 2 | 27.35 | 54.70
+6 | 01/12/23 | Cherry | 2 | 14.35 | 28.70
+6 | 01/12/23 | Homemade bread | 1 | 17.48 | 17.48
+6 | 01/12/23 | Smoothie with chia seeds | 1 | 25.26 | 25.26
+6 | 01/12/23 | Corn | 1 | 13.55 | 13.55
+6 | 01/12/23 | Peaches on branch | 2 | 25.62 | 51.24
+6 | 01/12/23 | Pesto with basil | 2 | 18.19 | 36.38
+7 | 01/12/23 | Plums | 1 | 19.18 | 19.18
+7 | 01/12/23 | Fresh blueberries | 2 | 21.01 | 42.02
+7 | 01/12/23 | Green smoothie | 4 | 17.68 | 70.72
+7 | 01/12/23 | Corn | 1 | 13.55 | 13.55
+7 | 01/12/23 | French fries | 2 | 18.32 | 36.64
+8 | 01/12/23 | Ground beef meat burger | 3 | 11.73 | 35.19
+8 | 01/12/23 | Hazelnut in black ceramic bowl | 1 | 27.35 | 27.35
+8 | 01/12/23 | Cherry | 2 | 14.35 | 28.70
+8 | 02/12/23 | Homemade bread | 5 | 17.48 | 87.40
+8 | 02/12/23 | Smoothie with chia seeds | 2 | 25.26 | 50.52
+8 | 02/12/23 | Corn | 10 | 13.55 | 135.50
+8 | 02/12/23 | Rustic breakfast | 2 | 21.32 | 42.64
+9 | 02/12/23 | Sandwich with salad | 3 | 22.48 | 67.44
+9 | 02/12/23 | Raw legums | 20 | 17.11 | 342.20
+9 | 02/12/23 | Fresh stawberry | 4 | 28.59 | 114.36
+9 | 02/12/23 | Pears juice | 1 | 19.49 | 19.49
+9 | 02/12/23 | Green smoothie | 8 | 17.68 | 141.44
+9 | 02/12/23 | Cuban sandwiche | 9 | 18.50 | 166.50
+10 | 02/12/23 | Hazelnut in black ceramic bowl | 2 | 27.35 | 54.70
+10 | 02/12/23 | Tomatoes | 1 | 26.03 | 26.03
+10 | 02/12/23 | Plums | 2 | 19.18 | 38.36
+10 | 02/12/23 | Fresh blueberries | 3 | 21.01 | 63.03
+10 | 02/12/23 | Green smoothie | 5 | 17.68 | 88.40
+10 | 02/12/23 | Corn | 4 | 13.55 | 54.20
+
+------------------------------------------------------------------------
+Valid records: 46
+Invalid records: 0
+Total cost: 2,481.86
+
+
+Archivo de salida: results/SalesResults8.txt
+
+Elapsed time (s): 0.0008229169980040751
